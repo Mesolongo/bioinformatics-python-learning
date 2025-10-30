@@ -1,0 +1,7 @@
+gene,condition,expression
+BRCA1,normal,5.2
+BRCA1,tumor,8.1
+TP53,normal,3.5
+TP53,tumor,1.2
+EGFR,normal,4.0
+EGFR,tumor,9.5
