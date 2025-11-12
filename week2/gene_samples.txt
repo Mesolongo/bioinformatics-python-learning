@@ -1,0 +1,8 @@
+Sample1,BRCA1
+Sample1,TP53
+Sample1,KRAS
+Sample2,BRCA1
+Sample2,TP53
+Sample2,EGFR
+Sample3,BRCA1
+Sample3,EGFR
